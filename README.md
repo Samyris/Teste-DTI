@@ -11,6 +11,9 @@ Desafio para teste de vaga DTI
 **Decisões de projeto e premissas assumidas.**
 - Utiliza-se o calendário gregoriano que começa no ano 0 e a cada 400 anos a data é redefinida, no qual usa-se 2000 como ano de referencia  pois é a data mais próxima de reconfiguração das datas do calendário.
 - Programa funciona para datas entre o ano de 2001 e 2400.
-- 1<=dia<=31
-- 1<=mes<=12
+- Foi suposto:
+    - 1<=dia<=31.
+    - 1<=mes<=12.
+    - 
+
 
