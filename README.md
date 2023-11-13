@@ -15,5 +15,6 @@ Desafio para teste de vaga DTI
     - 1 <= dia <= 31.
     - 1 <= mes <= 12.
     - Todas as datas são válidas, o programa não analisa se são inválidas(por exemplo:31/02/2022).
+    - Número de cães (grandes e pequenos) deve ser positivo e inteiro(tipo int).
 
 
