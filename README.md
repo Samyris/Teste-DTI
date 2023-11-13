@@ -14,6 +14,6 @@ Desafio para teste de vaga DTI
 - Foi suposto:
     - 1<=dia<=31.
     - 1<=mes<=12.
-    - 
+    - O programa pressupões que todas as datas são válidas, não analisa se são invalidas(por exemplo:31/02/2022).
 
 
