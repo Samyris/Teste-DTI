@@ -8,4 +8,6 @@ Desafio para teste de vaga DTI
 4) Depois de compilar, executar o programa pelo terminal com o seguinte comando: ./testeDTI_Samyris
 
 
-**Documento descrevendo as decisões de projeto e premissas assumidas.**
+**Decisões de projeto e premissas assumidas.**
+- Utiliza-se o calendário gregoriano que começa no ano 0 e a cada 400 anos a data é redefinida, no qual usa-se 2000 como ano de referencia  pois é a data mais próxima de reconfiguração das datas do calendário.
+- Programa funciona para datas 
